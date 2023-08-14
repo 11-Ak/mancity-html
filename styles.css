@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+}
+header{
+    background-color: #98c5e9; font-family: 'Ruwudu', serif; font-size: 50px; text-align: center; color: #001838; 
+}
+.intro{
+    font-size: 26px; font-family: 'Ruwudu', serif; color: #001838; text-align: justify; margin: 5px 10px;
+}
+#logo{
+    float: right; width: 450px; height: 450px;
+}
+.history{
+    font-size: 26px; font-family: 'Ruwudu', serif; color: #001838; text-align: justify; margin: 5px 10px;
+}
+#maineroad{
+    width: 650px; height: 500px;
+}
+#takeover{
+    width: 600px; height: 500px;
+}
+.takeover{
+    font-size: 26px; font-family: 'Ruwudu', serif; color: #001838; text-align: justify; margin: 5px 10px;
+}
+.treble{
+    font-size: 26px; font-family: 'Ruwudu', serif; color: #001838; text-align: justify; margin: 5px 10px;
+}
+#PL{
+    width:640px; height: 520px;
+}
+#FA{
+    width:640px; height: 520px;
+}
+#UCL{
+    width:640px; height: 520px;
+}
+footer{
+    background-color: #6CABDD; font-family: 'Ruwudu', serif; font-size: 20px; text-align: center; color: #001838;
+}
+h2{
+    font-size: 35px;
+}
